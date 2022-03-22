@@ -2,6 +2,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=ywbk&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **YWBK/YWBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
