@@ -2,9 +2,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=ywbk&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
 
-[![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywbk&count_private=true)](https://github.com/ywbk/github-readme-stats)
+[![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywbk&theme=dracula&count_private=true)](https://github.com/ywbk/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywbk)](https://github.com/ywbk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywbk&theme=dracula)](https://github.com/ywbk/github-readme-stats)
 
 
 <!--
