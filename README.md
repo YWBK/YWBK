@@ -1,13 +1,13 @@
 # Oh, hello 👋 I'm Bill and welcome!
 
 ## Projects
-### <a href="https://whats-good-now.herokuapp.com/#/" target="_blank">whatsGood</a>
+### [whatsGood](https://whats-good-now.herokuapp.com/#/)
 A MERN stack group project
 
-### [humpday.com]()
+### [humpday.com](https://humpday.herokuapp.com/#/)
 A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
 
-### [2D Tennis, a tennis game]()
+### [2D Tennis, a tennis game](https://ywbk.github.io/tennis_game/)
 A vanilla javascript tennis video game, animated with Canvas
 
 ## Github Stats
@@ -18,6 +18,13 @@ A vanilla javascript tennis video game, animated with Canvas
 <a href="https://github.com/ywbk/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywbk&theme=dracula&layout=compact" />
 </a>
+
+## Hobbies
+"You don't have to be good at something to enjoy it", somebody probably
+
+Tennis
+
+[Music](https://soundcloud.com/ywbk)
 
 <!--
 **YWBK/YWBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
