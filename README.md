@@ -2,7 +2,7 @@
 
 ## Projects
 ### [whatsGood](https://whats-good-now.herokuapp.com/#/)
-A MERN stack group project
+A MERN stack group project with [Ethan Gumin](https://github.com/ethangumin), [Katie Hang](https://github.com/johnda911), [Steven Wu](https://github.com/swusteven)
 
 ### [humpday.com](https://humpday.herokuapp.com/#/)
 A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
