@@ -1,16 +1,16 @@
-### Oh, hello 👋 I'm Bill and welcome!
+# Oh, hello 👋 I'm Bill and welcome!
 
-### Projects
-# whatsGood
+## Projects
+### whatsGood
 A MERN stack group project
 
-# humpday.com
+### humpday.com
 A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
 
-# 2D Tennis, a tennis game
+### 2D Tennis, a tennis game
 A vanilla javascript tennis video game, animated with Canvas
 
-### Github Stats
+## Github Stats
 
 <a href="https://github.com/ywbk/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ywbk&theme=dracula&show_icons=true&count_private=true" />
