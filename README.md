@@ -1,4 +1,14 @@
-### Hi there 👋
+### Oh, hello 👋 I'm Bill and welcome!
+
+### Projects
+# whatsGood
+A MERN stack group project
+
+# humpday.com
+A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
+
+# 2D Tennis, a tennis game
+A vanilla javascript tennis video game, animated with Canvas
 
 ### Github Stats
 
