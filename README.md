@@ -1,13 +1,13 @@
 # Oh, hello 👋 I'm Bill and welcome!
 
 ## Projects
-### whatsGood
+### <a href="https://whats-good-now.herokuapp.com/#/" target="_blank">whatsGood</a>
 A MERN stack group project
 
-### humpday.com
+### [humpday.com]()
 A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
 
-### 2D Tennis, a tennis game
+### [2D Tennis, a tennis game]()
 A vanilla javascript tennis video game, animated with Canvas
 
 ## Github Stats
