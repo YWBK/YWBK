@@ -1,6 +1,10 @@
 # Oh, hello 👋 I'm Bill and welcome!
 
 ## Projects
+
+### [Weather App](https://weather-app-ywbk.herokuapp.com/)
+A weather app with real time forecasts from OpenWeather API
+
 ### [whatsGood](https://whats-good-now.herokuapp.com/#/)
 A MERN stack group project with [Ethan Gumin](https://github.com/ethangumin), [Katie Hang](https://github.com/johnda911), [Steven Wu](https://github.com/swusteven)
 
@@ -16,14 +20,6 @@ A vanilla javascript tennis video game, animated with Canvas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywbk&layout=compact&theme=dracula)
 
-## Hobbies
-"You don't have to be good at something to enjoy it", somebody probably
-
-Tennis
-
-[Music](https://soundcloud.com/ywbk)
-
-Comedy
 
 <!--
 **YWBK/YWBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
