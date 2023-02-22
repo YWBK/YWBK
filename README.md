@@ -2,14 +2,13 @@
 
 ## Projects
 
+### [humpday.com](https://humpday.herokuapp.com/#/)
+A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
 ### [Weather App](https://weather-app-ywbk.herokuapp.com/)
 A weather app with real time forecasts from OpenWeather API
 
 ### [whatsGood](https://whats-good-now.herokuapp.com/#/)
 A MERN stack group project with [Ethan Gumin](https://github.com/ethangumin), [Katie Hang](https://github.com/johnda911), [Steven Wu](https://github.com/swusteven)
-
-### [humpday.com](https://humpday.herokuapp.com/#/)
-A fullstack clone of monday.com, built on a Ruby on Rails backend and React Redux frontend
 
 ### [2D Tennis, a tennis game](https://ywbk.github.io/tennis_game/)
 A vanilla javascript tennis video game, animated with Canvas
