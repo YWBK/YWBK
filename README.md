@@ -1,5 +1,7 @@
 # Oh, hello 👋 I'm Bill and welcome!
 
+I'm a backend-focused engineer in fintech with production ownership and architectural involvement.
+
 <!--
 **YWBK/YWBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
